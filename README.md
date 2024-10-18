@@ -14,12 +14,12 @@ I then pinned these numbers to a Python data array which could be used as a meas
 The program is pretty stock standard Python. It shouldn't require any additional libraries to run. 
 
 ## Instructions for use
-1. Download **main.py** and **input_text.txt** to a folder on your computer.
+1. Download **main.py** and **input_text.txt** to a local folder on your computer.
 
 2. Replace the text in **input_text.txt** with your own German text. Don't worry too much about spaces or punctuation.
 
-3. Open a prompt/terminal, and navigate to the folder where you saved the two files.
+3. Open a prompt/terminal, and navigate to the directorz where you saved the two files.
 
-4. Type: **python3 main.py**
+4. Type: *python3 main.py*
 
 5. Mach Spaß!
