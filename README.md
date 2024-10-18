@@ -1,4 +1,4 @@
-# GerTexDi
+# TextDiffDE
 GermanTextDifficulty
 
 ## Find the CEFR level of a German text.
